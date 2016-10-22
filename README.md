@@ -29,4 +29,6 @@ kill-by-port --port 8000
 
  - [ ] add tests
  - [ ] add windows support
+ - [ ] publish to npm
+ - [ ] automate publish to npm
  
