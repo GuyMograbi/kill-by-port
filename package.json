@@ -1,0 +1,15 @@
+{
+  "name": "kill-by-port",
+  "version": "0.0.0",
+  "description": "kills process by port",
+  "bin": "kill-by-port.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "standard": "^8.4.0"
+  },
+  "scripts" : {
+    "test" : "standard",
+    "lint" : "standard --fix"
+  }
+  
+}
