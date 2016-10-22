@@ -1,4 +1,5 @@
 
+![travis](https://travis-ci.org/GuyMograbi/kill-by-port.svg?branch=master)
 
 # Installation
 
