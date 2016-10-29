@@ -4,13 +4,13 @@
 # Installation
 
 ```
-npm install -S GuyMograbi/kill-by-port
+npm install -S kill-by-port
 ```
 
 or globally for command line
 
 ```
-npm install -g GuyMograbi/kill-by-port
+npm install -g kill-by-port
 ```
 
 # Usage
@@ -31,5 +31,4 @@ kill-by-port --port 8000
  - [X] add tests
  - [ ] add windows support
  - [X] publish to npm
- - [ ] automate publish to npm
  
