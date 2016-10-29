@@ -3,6 +3,13 @@
   "version": "0.0.0",
   "description": "kills process by port",
   "bin": "kill-by-port.js",
+  "license": "MIT",
+  "author" : "Guy Mograbi <guy.mograbi@gmail.com> (http://www.mograblog.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuyMograbi/kill-by-port.git"
+  },
+  "homepage": "https://github.com/GuyMograbi/kill-by-port",
   "dependencies": {
     "minimist": "^1.2.0",
     "standard": "^8.4.0"
