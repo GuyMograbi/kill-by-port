@@ -4,7 +4,7 @@
   "description": "kills process by port",
   "bin": "kill-by-port.js",
   "license": "MIT",
-  "author" : "Guy Mograbi <guy.mograbi@gmail.com> (http://www.mograblog.com/)",
+  "author": "Guy Mograbi <guy.mograbi@gmail.com> (http://www.mograblog.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/GuyMograbi/kill-by-port.git"
@@ -14,9 +14,14 @@
     "minimist": "^1.2.0",
     "standard": "^8.4.0"
   },
-  "scripts" : {
-    "test" : "standard",
-    "lint" : "standard --fix"
+  "scripts": {
+    "test": "ava && standard",
+    "lint": "standard --fix",
+    "standard": "standard --fix",
+    "ava": "ava --watch"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "is-port-busy": "^1.0.0"
   }
-  
 }

@@ -28,8 +28,8 @@ kill-by-port --port 8000
 
 # Roadmap
 
- - [ ] add tests
+ - [X] add tests
  - [ ] add windows support
- - [ ] publish to npm
+ - [X] publish to npm
  - [ ] automate publish to npm
  
