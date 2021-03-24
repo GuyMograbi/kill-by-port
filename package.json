@@ -14,7 +14,7 @@
     "minimist": "^1.2.0"
   },
   "scripts": {
-    "test": "ava && standard",
+    "test": "ava 'tests/**/*.test.js' && standard",
     "lint": "standard --fix",
     "standard": "standard --fix",
     "ava": "ava --watch"

@@ -1,4 +1,4 @@
-import test from 'ava'
+const test = require('ava')
 const path = require('path')
 const childProcess = require('child_process')
 const fs = require('fs')
