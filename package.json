@@ -11,8 +11,7 @@
   },
   "homepage": "https://github.com/GuyMograbi/kill-by-port",
   "dependencies": {
-    "minimist": "^1.2.0",
-    "standard": "^8.4.0"
+    "minimist": "^1.2.0"
   },
   "scripts": {
     "test": "ava && standard",
@@ -22,6 +21,7 @@
   },
   "devDependencies": {
     "ava": "^0.16.0",
-    "is-port-busy": "^1.0.0"
+    "is-port-busy": "^1.0.0",
+    "standard": "^8.4.0"
   }
 }
