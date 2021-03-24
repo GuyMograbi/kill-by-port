@@ -20,7 +20,7 @@
     "ava": "ava --watch"
   },
   "devDependencies": {
-    "ava": "^0.16.0",
+    "ava": "^3.15.0",
     "is-port-busy": "^1.0.0",
     "standard": "^8.4.0"
   }
